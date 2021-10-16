@@ -36,3 +36,5 @@ int main(){
 	
 	return 0;
 }
+//weniger ist mehr
+//made by craxiss
