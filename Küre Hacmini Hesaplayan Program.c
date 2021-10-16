@@ -12,12 +12,8 @@ scanf("%d",&yaricap);
 {hacim = (4/3.0)*3.14*(yaricap*yaricap*yaricap);}
 printf("Kurenin hacmi %.2f'dir", hacim);
 
-
-
-
-
-
-
-
 return 0;
 }
+
+//weniger ist mehr
+//made by craxiss
