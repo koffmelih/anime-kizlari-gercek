@@ -4,5 +4,6 @@ C Dilinde kendimi geliştirmek için yazdığım kodlar.
 
 Web Sitem : https://gangstasec.com
 
+Telegram : https://t.me/qraxiss
 
-Iletisim : https://t.me/qraxiss
+Medium : https://medium.com/@qraxiss
