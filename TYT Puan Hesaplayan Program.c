@@ -31,4 +31,5 @@ puan = tr1+mat1+sos1+fen1+100;
 
 	return 0;
 }
-
+//weniger ist mehr
+//made by craxiss
