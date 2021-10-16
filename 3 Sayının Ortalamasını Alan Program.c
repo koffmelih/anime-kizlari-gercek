@@ -30,5 +30,8 @@ scanf("%d", &s3);
 	printf("Uc Sayinin Ortalamasi : %.2f" , ort);
 
 return 0;	
+	
 }
 
+//weniger ist mehr
+//made by craxiss
