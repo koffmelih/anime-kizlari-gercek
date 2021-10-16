@@ -24,3 +24,5 @@ printf("Birinci Kok : %.15g\nIkinci Kok : %.15g",kok1,kok2);
 
 return 0;
 }
+//weniger ist mehr
+//made by craxiss
