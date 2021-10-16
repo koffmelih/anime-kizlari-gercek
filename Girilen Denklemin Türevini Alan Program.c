@@ -62,3 +62,5 @@ getch();
 
 return 0;
 }
+//weniger ist mehr
+//made by craxiss
