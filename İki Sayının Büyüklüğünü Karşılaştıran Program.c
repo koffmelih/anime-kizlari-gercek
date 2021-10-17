@@ -26,3 +26,4 @@ else if (s1<s2) {
 }
 //weniger ist mehr
 //made by craxiss
+printf("bunu yazan AHMET MELİH SENOL")
